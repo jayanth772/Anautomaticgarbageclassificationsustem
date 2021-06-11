@@ -1,0 +1,2 @@
+# Anautomaticgarbageclassificationsustem
+Resnet-50
